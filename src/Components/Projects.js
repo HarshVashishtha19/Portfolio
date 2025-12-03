@@ -1,6 +1,5 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
-import NewsletterImage from '../images/StudyNotionImage.png';
 import CauseConnectImage from '../images/CauseConnectImage.png';
 import StudyNotionImage from '../images/StudyNotionImage.png';
 import WigglesImage from '../images/WigglesImage.png';
