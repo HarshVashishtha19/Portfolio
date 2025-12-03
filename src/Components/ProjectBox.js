@@ -10,8 +10,8 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     CauseConnectWebsite : "https://cause-connect-b.netlify.app/",
 
     StudyNotionDesc:"A modern ed-tech platform that allows learners to explore courses, track progress, and engage with interactive content, while empowering instructors to create and manage courses through a secure and intuitive dashboard.",
-    StudyNotionGithub:"",
-    StudyNotionWebsite:"https://study-notion-e.vercel.app/",
+    StudyNotionGithub:"https://github.com/HarshVashishtha19/StudyNotion",
+    StudyNotionWebsite:"https://study-notionn.vercel.app/",
     
     WigglesDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
     WigglesGithub:"https://github.com/HarshVashishtha19/Wiggles",
