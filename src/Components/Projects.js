@@ -1,7 +1,7 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
 import CauseConnectImage from '../images/CauseConnectImage.png';
-import StudyNotionImage from '../images/StudyNotionImage.png';
+import StudyNotionImage from '../images/PortfolioImage.png';
 import WigglesImage from '../images/WigglesImage.png';
 
 const Projects = () => {

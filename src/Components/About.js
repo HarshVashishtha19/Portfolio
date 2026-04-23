@@ -12,7 +12,7 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hi, my name is <b>Harsh Kumar Sharma</b> and I am from New Delhi, India.
-            I'm a <b>MERN stack web developer</b> and a final year college student pursuing <b>BTech in CSE</b>. <br /><br />
+            I'm a <b>Frontend developer</b> and a final year college student pursuing <b>BTech in CSE</b>. <br /><br />
             I love building cool <b>Projects</b> with beautiful designs and clean interfaces.
             I focus on learning by creating, and you can explore some of my best work in the
             projects section.<br /><br />
@@ -39,16 +39,12 @@ const About = () => {
       <div className='skills'>
         
         <Skills skill='React' />
-        <Skills skill='Node' />
-        <Skills skill='Express' />
-        <Skills skill='MongoDb' />
-        <Skills skill='Git' />
-        <Skills skill='Github' />
         <Skills skill='Javascript' />
         <Skills skill='Java' />
-        <Skills skill='Python' />
-        <Skills skill='Postman' />
+        <Skills skill='SQL' />
         <Skills skill='Tailwind' />
+        <Skills skill='Git' />
+        <Skills skill='Github' />
         <Skills skill='Vercel' />
         <Skills skill='Bootstrap'/>
         

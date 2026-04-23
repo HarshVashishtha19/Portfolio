@@ -9,9 +9,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     CauseConnectGithub : "https://github.com/HarshVashishtha19/Cause-Connect",
     CauseConnectWebsite : "https://cause-connect-b.netlify.app/",
 
-    StudyNotionDesc:"A modern ed-tech platform that allows learners to explore courses, track progress, and engage with interactive content, while empowering instructors to create and manage courses through a secure and intuitive dashboard.",
-    StudyNotionGithub:"https://github.com/HarshVashishtha19/StudyNotion",
-    StudyNotionWebsite:"https://study-notionn.vercel.app/",
+    StudyNotionDesc:"A personal portfolio that presents my skills, projects, and a short introduction about me in a clean and simple layout. It also includes my resume, making it easy for visitors to explore my work and get to know me as a developer.",
+    StudyNotionGithub:"https://github.com/HarshVashishtha19/Portfolio",
+    StudyNotionWebsite:"https://portfolio-harshkumarsharma.vercel.app/",
     
     WigglesDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
     WigglesGithub:"https://github.com/HarshVashishtha19/Wiggles",

@@ -1,5 +1,6 @@
 import React from 'react'; 
 import {FaReact, FaPython, FaGitAlt, FaGithub,  FaBootstrap ,FaJava} from "react-icons/fa";
+import { TbSql } from "react-icons/tb";
 import {DiNodejs, DiJavascript1} from "react-icons/di";
 import {SiExpress, SiMongodb, SiPostman, SiVercel ,SiTailwindcss} from "react-icons/si";
 
@@ -7,6 +8,7 @@ import {SiExpress, SiMongodb, SiPostman, SiVercel ,SiTailwindcss} from "react-ic
 const Skills = ({skill}) => {
     const icon = {
         Java: <FaJava/>,
+        SQL: <TbSql/>,
         Postman: <SiPostman/>,
         React: <FaReact/>,
         Javascript: <DiJavascript1/>,
